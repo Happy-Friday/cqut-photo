@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"cqut-photo/tools" //github.com/doorOfChoice/tools
 	"encoding/json"
 	"fmt"
 	"io"
@@ -12,7 +13,6 @@ import (
 	"path"
 	"sync"
 	"time"
-	"tools"
 )
 
 const (
