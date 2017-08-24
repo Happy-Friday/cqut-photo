@@ -1,7 +1,6 @@
 package main
 
 import (
-	"blog/tools"
 	"bufio"
 	"encoding/json"
 	"fmt"
@@ -13,6 +12,7 @@ import (
 	"path"
 	"sync"
 	"time"
+	"tools"
 )
 
 const (
