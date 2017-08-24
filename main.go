@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"cqut-photo/tools" //github.com/doorOfChoice/tools
+	"cqut-photo/tools"
 	"encoding/json"
 	"fmt"
 	"io"
