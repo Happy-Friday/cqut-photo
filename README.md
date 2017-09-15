@@ -22,4 +22,5 @@ config.json
 	username: string,
 	password: string
 }
+
 ```
