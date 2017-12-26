@@ -1,0 +1,3 @@
+package: cqut-photo
+import:
+- package: github.com/PuerkitoBio/goquery
